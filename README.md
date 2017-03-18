@@ -1,9 +1,11 @@
 # BigD-in-R-Airline-Delays
 The 5th case study on rdatasciencecases.org
 
+## Data
 - [All Airline Delays](http://rdatasciencecases.org/Data/Airline/AirlineDelays.tar.bz2)
 - [By year/month](http://rdatasciencecases.org/Data/Airline)
 
+## Questions
 1. Using the UNIX® shell, create the AirlineDataAll.csv file without using a loop.
 2. Write a preprocessing script (using the shell, R, Python or any tools) to create a file that can be used with bigmemory, i.e., convert the non-numeric values to numeric values in some well-defined manner.
 3. How many flights were there for each day of the week?
